@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://boxbot6.github.io/simple-website-templates/</loc>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/website-template-simple-single-page-v1-sample.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/website-template-simple-single-page-with-banner-v1-sample-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/simple-website-template-sky-style-v1-sample.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/simple-website-template-folder-style-v1-sample.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/simple-website-template-with-banner-v1-sample.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/simple-website-template-with-banner-v2-sample.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/simple-website-templates/images/simple-website-template-with-banner-v3-sample.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
