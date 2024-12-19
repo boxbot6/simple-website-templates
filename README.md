@@ -1,8 +1,8 @@
 [<img src="images/simple-website-template-banner.jpg" alt="Title banner." width="100%"/>](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/simple-website-template-banner.jpg)
 
-Free HTML/CSS website templates to use on github and elsewhere.
+Free HTML/CSS website templates to use on GitHub and elsewhere.
 
-(Click on each image or link to visit the GitHub repository for that template and you can try it out or download the free files). 
+(Click links below to visit the GitHub repository for each template where you can try them or download the free files). 
 
 <table align="center">
     <tr>
