@@ -2,7 +2,7 @@
 
 Free HTML/CSS website templates to use on GitHub and elsewhere.
 
-(Click links below to visit the GitHub repository for each template where you can try them and download the free files). 
+(Click the links below to visit the GitHub repository for each template, where you can try them out and download the free files.)
 
 <table align="center">
     <tr>
